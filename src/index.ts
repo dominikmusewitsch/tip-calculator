@@ -55,5 +55,6 @@ async function main() {
   }
 
   console.log("-----------------------------");
+  rl.close();
 }
 main();
